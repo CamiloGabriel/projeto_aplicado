@@ -1,10 +1,7 @@
-## Projeto para conclusão de curso 
-
-
 # Diagnóstico de Desvios de Coluna: Análise de Eficiência entre Modelos Generalistas e Específicos na Identificação de Lordose e Cifose
 
 
-### Este trabalho propõe um estudo comparativo entre diferentes abordagens de modelos de inteligência artificial aplicados ao diagnóstico destes desvios, utilizando como objeto de pesquisa exames de imagem de raio-X da coluna vertebral. O estudo visa comparar dois cenários distintos: no primeiro será utilizado um modelo de IA unificado para as doenças do grupo de alterações posturais mencionadas, e no segundo serão utilizados modelos de IA separados para cada condição específica.
+### Projeto de conclusão de curso que propõe um estudo comparativo entre diferentes abordagens de modelos de inteligência artificial aplicados ao diagnóstico destes desvios, utilizando como objeto de pesquisa exames de imagem de raio-X da coluna vertebral. O estudo visa comparar dois cenários distintos: no primeiro será utilizado um modelo de IA unificado para as doenças do grupo de alterações posturais mencionadas, e no segundo serão utilizados modelos de IA separados para cada condição específica.
 
 
 
